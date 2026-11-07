@@ -100,7 +100,7 @@ Lift < weight: Kaldırma kuvveti ağırlıktan küçükse drone alçalır (notun
 Lift = weight: Drone yerdeyse kalkmaz, havadaysa sabit kalır (hovering).
 Lift > weight: Drone yükselir.
 Sabit Kanatlı İHA Nasıl Çalışır? (Fixed-Wing)
-Bu konu derste anlatılmadı.
+Bu konu videoda anlatılmadı.
 İHA Mimarisi: Temel Bileşenler
 Companion computer: Kod çalıştıran görev bilgisayarıdır ve İHA’nın içinde bulunur.
 Flight controller: Verilen veriyi işler ve dronun stabil kalmasını sağlar.
