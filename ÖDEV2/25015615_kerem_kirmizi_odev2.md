@@ -65,8 +65,6 @@ açık kodlu yazılım : kullanıcılara değişiklik yapmak üzere açılması 
 
 clear ile chati temizleyebiliyoruz . 
 
-
-
 IHA KISMI: 
 
 İHA Notları (Genişletilmiş)
@@ -192,8 +190,5 @@ PyMAVLink: MAVLink’in Python temsilidir ve kullanımı zordur.
 MAVSDK: Modern ve kullanıcı dostu bir yaklaşım sunar.
 ROS kütüphanesi: Robotik projelerde tercih edilir ve PX4 ile ArduPilot ile uyumludur.
 DroneKit: Küçük ve orta ölçekli projeler için uygundur, eğitim amaçlı projeler için idealdir.
-<<<<<<< HEAD
-PX4 için en ideal seçenek MAVSDK’dir.
-=======
 PX4 için en ideal seçenek MAVSDK’dir.
 
