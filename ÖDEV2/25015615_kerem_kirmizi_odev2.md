@@ -43,8 +43,6 @@ web reposunda değişiklik yaptıktan sonra pcdeki repoda değişiklik yapıp pu
 
 git pull = Git fetch + git merge yaparak bu değişiklikleri alıyoruz 
 
-git merge yapınca açılan ekranda :wq yapıyoruz 
-
 git push ve git pull yazdığımızda bir değişiklik yoksa bunu bize bildiriyor already up to date
 
 biz git push ile şimdi göstersek bile bu commit ekranında bizim bilgisayarda değişikliği yaptığımız zamanda gösteriyor örneğin ben şimdi gönderdim ancak 8 dk önce commit edilmiş gözüküyor.
@@ -63,17 +61,21 @@ git branch ile branchleri görüntüleyebiliyoruz
 
 git branch -d branchadı ile branch silebilirzi 
 
-
 açık kodlu yazılım : kullanıcılara değişiklik yapmak üzere açılması bazıları dağıtım hakkı vermeyebilirmiş
 
 clear ile chati temizleyebiliyoruz . 
 
+<<<<<<< HEAD
 
 
 
 IHA KISMI: 
 
 İHA Notları (Genişletilmiş)
+=======
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+>>>>>>> 550d278c856ac596d622338e86006e10811806e1
 İHA’nın Günlük Kullanım Alanları
 İHA’lar yemek servisinde, yani kuryelik işlerinde kullanılır.
 Uzun binaların ve camlı yapıların dış cephe temizliğinde insanların riskli yüksekliklere çıkmasına gerek bırakmaz.
@@ -195,4 +197,8 @@ PyMAVLink: MAVLink’in Python temsilidir ve kullanımı zordur.
 MAVSDK: Modern ve kullanıcı dostu bir yaklaşım sunar.
 ROS kütüphanesi: Robotik projelerde tercih edilir ve PX4 ile ArduPilot ile uyumludur.
 DroneKit: Küçük ve orta ölçekli projeler için uygundur, eğitim amaçlı projeler için idealdir.
+<<<<<<< HEAD
 PX4 için en ideal seçenek MAVSDK’dir.
+=======
+PX4 için en ideal seçenek MAVSDK’dir.
+>>>>>>> 550d278c856ac596d622338e86006e10811806e1
