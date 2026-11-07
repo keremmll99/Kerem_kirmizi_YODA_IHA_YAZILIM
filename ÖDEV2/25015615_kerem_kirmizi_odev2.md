@@ -65,17 +65,12 @@ açık kodlu yazılım : kullanıcılara değişiklik yapmak üzere açılması 
 
 clear ile chati temizleyebiliyoruz . 
 
-<<<<<<< HEAD
-
 
 
 IHA KISMI: 
 
 İHA Notları (Genişletilmiş)
-=======
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
->>>>>>> 550d278c856ac596d622338e86006e10811806e1
 İHA’nın Günlük Kullanım Alanları
 İHA’lar yemek servisinde, yani kuryelik işlerinde kullanılır.
 Uzun binaların ve camlı yapıların dış cephe temizliğinde insanların riskli yüksekliklere çıkmasına gerek bırakmaz.
@@ -201,4 +196,4 @@ DroneKit: Küçük ve orta ölçekli projeler için uygundur, eğitim amaçlı p
 PX4 için en ideal seçenek MAVSDK’dir.
 =======
 PX4 için en ideal seçenek MAVSDK’dir.
->>>>>>> 550d278c856ac596d622338e86006e10811806e1
+
